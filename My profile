@@ -1,0 +1,157 @@
+<!--Don't Copy this !!!!!Warning!!!!!-->
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+        <title>My Profile</title>
+        <style>
+       div{
+    background-color:Dodgerblue;
+    border-radius:10px;
+    
+}
+.button{
+    padding:20px;
+    mouse:pointer;
+}
+        </style>
+    </head>
+    <body><br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+        <center><caption><font size="24" face="cursive">Raunak Ranjan</font></caption></center>
+        <hr color="#000000" width="80%">
+        <caption><center><font size="18" face="cursive">(~Student~)</font></center></caption>
+        <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <hr>
+    <br />
+    <div><br /> <br /><br /><br /><br /><br /><br /><br /> <br />
+      <center><img src="https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/118914237_768951030607104_6428902752511784933_o.jpg?_nc_cat=103&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=rlOy6TYQvpwAX8BmImH&_nc_ht=scontent.fpat2-1.fna&tp=14&oh=709e0b4a2381e8353a44fdc98c3b80f0&oe=5F90606D" height="50%" width="50%" style="border-radius:50px;">
+         <br> <font size="4"><b><u>Raunak_Ranjan</u></b></font>
+      </center>
+        <br>
+        <br>         
+        <br>   
+       <p align="left" style="font-family:courier;"><b>Namastey! / Hello,</b></p> 
+        <p align="center" style="font-family:courier;"><b>
+               I'm Raunak Ranjan.<br>I'm from Siwan in Bihar.<br>
+             [India]
+      </b>  </p>
+ 
+        <p align="right">{To see my Bio-Data}
+            
+        <a href="https://drive.google.com/file/d/10HgiWgO7jHf7JAv50iXkdhu4TAA4amSA/view?usp=drivesdk" class="button"><button id="resume" style="background-color:blue; color:White; border-radius:50px;border-color:voilet;">Click Here</button></a></p>
+    <br />
+    <br />
+    <br />
+              <!--my skills details-->
+        
+       <details><summary>
+          My skills 
+       </summary>
+        <ul>
+        <li>
+            HTML
+        </li>
+        <li>
+            CSS
+        </li>
+        <li>
+            JavaScript
+        </li>
+    </ul>
+</details> <center><img src="https://www.ratatype.com/certificates/en/en/0/9/0/2117090-1600564085.jpg" alt="typing skill" height="50%" width="90%"></p></center>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    </div>
+    
+    
+    <!--follow me-->
+    
+    
+   <div style="background-color:Tomato;">
+   <br><font size="5" face="cursive"> <p align="left">My Social Accounts~  <p align="center">(Follow me)</p></p></font>
+     
+     <!--Facebook button-->
+    <center>
+     <a href="https://m.facebook.com/Raunak.ranjan.430?ref=bookmarks" class="button"><button style="background-color:white; color:Dodgerblue;  border-radius:100px;"><img src="https://image.similarpng.com/very-thumbnail/2020/04/logo-Facebook-button-social-media-png.png" style="width:50px; height:50px; border-radius:50px;" alt="facebook"></button></a>
+    
+        
+        
+    
+        <!--Instagram button-->
+        
+     <a href="https://www.instagram.com/raunakranjan1/" class="button"><button style="background-color:white; color:orange; height:15%; border-radius:100px;"><img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Instagram-icon.png" style="height:50px; width:50px;" alt="Instagram"></button></a>
+        <br>
+        
+        <!--YouTube button-->
+
+        <a href="https://www.youtube.com/channel/UCbzrDn_J3WzIcKUGXPWfxSA"><button style="background-color:white; color:Red;  height:15%; border-radius:100px;"><img src="https://image.similarpng.com/very-thumbnail/2020/05/YouTube-circular-icon-PNG.png" style="height:50px; width:50px; border-radius:50px;" alt="Youtube channel"></button></a>
+        
+        
+        <!--Whatsapp button-->
+     
+        
+      <a href="https://api.WhatsApp.com/send?phone=+917759931019"><button style="background-color:white; color:Green;  height:15%; border-radius:100px; "><img src="https://image.similarpng.com/very-thumbnail/2020/06/3D-WhatsApp-logo-transparent-PNG.png" style="height:50px; width:50px; border-radius:50px;" alt="Whatsapp"></button></a>
+
+        <!-- G-mail button-->
+        
+        <form action="mailto: raunakranjan99@gmail.com"><button style="background-color:white; color:Red+white;  height:15%; border-radius:100px; "><img src="https://image.similarpng.com/very-thumbnail/2020/04/3d-logo-Gmail-png.png" style="height:50px; width:50px ; border-radius:50px;" alt="G-mail"></button></a>
+        </form>
+        <br>
+        </center>
+       <br> 
+       
+       
+       
+       <br>
+   Covid-19:<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#:~:text=symptoms"><button>info</button></a>
+     <footer align="center" style="background-color:Black; color:white;">
+       <b> <i>©2020 Copyright:Raunak_Ranjan</i></b>
+     </footer>
+    </div>
+    
+     <!--Javascript Here (below)-->
+    
+      <script type="text/javascript">
+        alert("\nMy profile Details")
+       
+       
+        </script>
+    </body>
+</html>
